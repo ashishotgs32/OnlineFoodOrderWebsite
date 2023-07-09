@@ -1,4 +1,4 @@
-# Methuen Online-Food-Ordering-System
+#Online-Food-Ordering-System
 Online Food Ordering System like Uber eat, Food panda or Mithuan 
 
 this Online Food Ordering System project in PHP focuses mainly on managing online food orders. To be more precise, the system helps to keep track of clients, and their orders. Also, the system displays all the available food dishes with their respective restaurants. In addition, the system allows online bookings for the client. Evidently, this project contains a client-side with an admin panel. In an overview of this web application, customers have to register in order to use the services. Here, customers can view food dishes and filter restaurants. In terms of food ordering, he/she can simply add dishes to the cart and checkout. In fact, all these customers’ activities take place on the client side which also allows user to view their order list with status. Besides, the customers can delete orders anytime.
@@ -34,9 +34,6 @@ In addition to it, an admin can have an overview number of the existing total or
 - Customer Management
 - Total Earnings
 
-# Recommended
-
-**Recommended PHP Version 5.6, 7.4**
 
 Database Name: onlinefoodphp
 
